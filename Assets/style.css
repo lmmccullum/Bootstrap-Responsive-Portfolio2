@@ -1,5 +1,12 @@
+.h1 {
+    font-size:25px; 
+    color:#538b01; 
+    font-weight:bold; 
+    font-style:italic;
+}
+
 .body {
-    <big-image> https://i.imgur.com/M344Z9V.png?1</big-image>;
+    background-image:url(https://i.imgur.com/M344Z9V.png?1);
 }
 .icon  {
     float: left;
