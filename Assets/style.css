@@ -3,5 +3,11 @@
     margin: 10px;
 }
 .container {
-    background-image: url("https://i.imgur.com/M344Z9V.png?1");
+    border: 2px solid black;
+  padding: 25px;
 }
+/* body {
+    background: url(https://i.imgur.com/xfSIRA8.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+} */
