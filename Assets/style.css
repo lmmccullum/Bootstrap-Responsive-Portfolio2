@@ -3,11 +3,10 @@
     margin: 10px;
 }
 .container {
-    border: 2px solid black;
   padding: 25px;
 }
-/* body {
-    background: url(https://i.imgur.com/xfSIRA8.png);
+body {
+    background: url();
   background-repeat: no-repeat;
   background-size: 100% 100%;
-} */
+}
